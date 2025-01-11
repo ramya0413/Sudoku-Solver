@@ -1,4 +1,3 @@
-# Sudoku-Solver
 <h1 align="center">Sudoku Solver</h1>
 
 <h3>Overview</h3>
